@@ -1,0 +1,22 @@
+{
+  "name": "beforetrade",
+  "version": "1.0.0",
+  "description": "Important global market data",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "market",
+    "data"
+  ],
+  "author": "Govind",
+  "license": "ISC",
+  "dependencies": {
+    "cnbc-market": "^2.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.1"
+  }
+}

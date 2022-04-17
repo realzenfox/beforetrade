@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+section {
+  margin-top: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.quoteCard {
+  border: 5px solid white;
+  padding: 10px;
+  color: white;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
